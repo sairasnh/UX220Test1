@@ -6,9 +6,5 @@ Answer the 3 questions in the provided html files. To preview your answers type 
 npm install
 npm start
 ```
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow.svg)](https:///pr.new/sairasnh/UX2202023Test1)
 
-**Note:**
-
-This can be done on [stackblitz](https://pr.new/rhildred/UX220Test1) or this can be done on [diy-pwa.dev](https://diy-pwa.dev/~/gh/rhildred/UX220Test1)
-
-When you are done use the white icon with the download arrow to get a .zip file and add it to the dropbox.
